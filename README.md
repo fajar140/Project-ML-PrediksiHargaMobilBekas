@@ -1,9 +1,9 @@
 # Project-ML-PrediksiHargaMobilBekas
 
-## Judul Proyek: Model Prediksi Harga Mobil Bekas Menggunakan Metode Random Forest Regression
-## Nama: Fajar Ibrahim Nasry Hamdan
-## NPM: 51421685
-## Kelas: 3IA02
+### Judul Proyek: Model Prediksi Harga Mobil Bekas Menggunakan Metode Random Forest Regression
+### Nama: Fajar Ibrahim Nasry Hamdan
+### NPM: 51421685
+### Kelas: 3IA02
 
 ### Deskripsi:
 Proyek ini bertujuan untuk memprediksi harga mobil bekas dengan menggunakan metode Random Forest Regression. Model ini dibangun untuk mengatasi tantangan dalam menilai harga mobil bekas, yang dipengaruhi oleh berbagai faktor seperti tahun produksi, harga beli, kilometer yang telah ditempuh, jenis bahan bakar, tipe penjual, tipe transmisi, dan jumlah pemilik sebelumnya.
